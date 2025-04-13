@@ -1,3 +1,5 @@
+//I created a function that is an array of my interest so my code
+//can pull the info it needs from this file
 const interests =
 [
     {
